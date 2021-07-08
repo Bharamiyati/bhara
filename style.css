@@ -1,0 +1,20 @@
+body {
+ 	margin: 0;
+ 	padding: 0;
+}
+
+.jumbotron {
+	padding-top: 6rem;
+	color: white;
+	background-color: #273036;
+}
+
+
+#Skills {
+	background-color: #273036;
+	color: white;
+}
+
+section {
+	padding-top: 6rem;
+}
